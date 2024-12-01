@@ -1,3 +1,4 @@
+# Given this wall, count the number of times each left term appears on the right. Then find the total sum of value*count 
 wall="""
 77442   88154
 71181   76363
