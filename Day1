@@ -1,3 +1,4 @@
+# Find the sum of the difference of left/right mins
 wall="""
 77442   88154
 71181   76363
